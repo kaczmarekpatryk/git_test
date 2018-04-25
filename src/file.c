@@ -9,5 +9,6 @@ using namespace std;
 int main()
 {
     cout << "aaaaaaaaaaaaa aaaa" << endl;
+    cout << "bbbbbbbbbbbbb bbbb" << endl;	
     return 0;
 }
